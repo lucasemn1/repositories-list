@@ -1,6 +1,6 @@
 # Lista de Repositórios
 
-<img src="https://raw.githubusercontent.com/lucasemn1/repositories-list/main/public/logo192.png?token=ALAW74LXH6NXVKML7LAA3E3AWWL56" height="150" width="175" alt="Ícone Github" />
+![Ícone Github](https://raw.githubusercontent.com/lucasemn1/repositories-list/main/public/logo192.png?token=ALAW74LXH6NXVKML7LAA3E3AWWL56)
 
 ## Sobre o projeto
 
