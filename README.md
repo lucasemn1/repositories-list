@@ -17,7 +17,7 @@
 
 - [![NodeJS](https://img.shields.io/node/v/next?label=Node&color=%23339933&style=for-the-badge&logo=node-dot-js)](https://nodejs.org/en/)
 - [![React](https://img.shields.io/static/v1?label=React&message=17.0.2&color=61DAFB&style=for-the-badge&logo=React)](https://pt-br.reactjs.org/)
-- [![Material UI](https://img.shields.io/static/v1?label=Material%20UI&message=4.11.4&color=0081CB&style=for-the-badge&logo=Material-UI](https://material-ui.com/pt/)
+- [![Material UI](https://img.shields.io/static/v1?label=Material%20UI&message=4.11.4&color=0081CB&style=for-the-badge&logo=Material-UI](https://material-ui.com/pt/)]
 
 ## Instalação
 
