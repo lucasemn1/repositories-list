@@ -22,7 +22,7 @@ import { useEffect } from "react";
 function App() {
   useEffect(() => {
     document.title =
-      "Lista de Repositórios | Visualize e favorite seus repositórios 😁";
+      "Lista de Repositórios | Visualize e favorite repositórios do Github 😁";
     const repositoryList = localStorage.getItem("repositoryList");
 
     if (!repositoryList) {
