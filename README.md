@@ -30,7 +30,7 @@ yarn
 2. Após as dependências terem sido instaladas, execute o servidor local:
 
 ```console
-yarn serve
+yarn start
 ```
 
 3. Só isso! O projeto já está rodando na sua máquina! 🎉
